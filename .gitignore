@@ -1,0 +1,6 @@
+#folder
+.ipynb_checkpoints/
+
+#file
+*.data
+*.png
